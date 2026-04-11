@@ -54,9 +54,9 @@ skills:
       - label: Django
         level: 3
       - label: Flatter
-      - level: 1
+        level: 1
       - label: Dart
-      - level: 1
+        level: 1
 
 
 languages:
