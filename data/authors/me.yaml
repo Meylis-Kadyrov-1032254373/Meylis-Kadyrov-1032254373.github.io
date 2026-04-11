@@ -39,39 +39,25 @@ education:
     end: now time
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Bakend Developer
+    org: Сборищк студентов
+    start: 2025-10-20
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Написание двумерной карты корпуса ФМиЕн РУДН сиспользованием алгоритма А*, поднятие сервера и систиматизация гео-данных.
+    
 
 skills:
-  - name: Technical Skills
+  - name: Технические навыки
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+        level: 2
+      - label: Django
+        level: 3
+      - label: Flatter
+      - level: 1
+      - label: Dart
+      - level: 1
+
 
 languages:
   - name: English
@@ -81,9 +67,4 @@ languages:
     level: 4
     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+ 
