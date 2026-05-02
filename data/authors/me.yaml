@@ -27,6 +27,13 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Meylis-Kadyrov-1032254373
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=ru&user=LrVu0IMAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0006-9633-0320
+  - icon: academicons/academia
+    url: https://independent.academia.edu/MeylisKadyrov
+     
 
 interests:
   - Видео Игры
@@ -43,7 +50,7 @@ experience:
     org: Сборищк студентов
     start: 2025-10-20
     summary: |
-      Написание двумерной карты корпуса ФМиЕн РУДН сиспользованием алгоритма А*, поднятие сервера и систиматизация гео-данных.
+      Написание двумерной карты корпуса ФМиЕН РУДН сиспользованием алгоритма А*, поднятие сервера и систиматизация гео-данных.
     
 
 skills:
